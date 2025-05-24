@@ -1,3 +1,7 @@
+[![show-directory](https://github.com/Happer56/hexlet-ci-app/actions/workflows/qwe.yml/badge.svg)](https://github.com/Happer56/hexlet-ci-app/actions/workflows/qwe.yml)
+
+
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
